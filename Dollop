@@ -65,7 +65,11 @@
         line-height:42px;
         font-family:Arial Black, Arial, sans-serif;
       ">
-<span style="color:#0B7A3B;">H</span><span style="color:#0B7A3B;">D</span><span style="color:#0B7A3B;">I</span>
+<div style="position:relative;width:40px;height:50px;display:inline-block;">
+  <div style="position:absolute;left:8px;top:21px;width:24px;height:8px;background:#D71920;"></div>
+  <div style="position:absolute;left:0;top:0;width:8px;height:50px;background:#00843D;"></div>
+  <div style="position:absolute;right:0;top:0;width:8px;height:50px;background:#00843D;"></div>
+</div><span style="color:#0B7A3B;">D</span><span style="color:#0B7A3B;">I</span>
 </div>
  
     </td>
