@@ -1,74 +1,10 @@
-<table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial, Helvetica, sans-serif; border-collapse:collapse;">
-<tr>
- 
-    <!-- LEFT SIDE -->
-<td align="center" valign="middle" style="padding-right:20px;">
- 
-      <!-- Falcon Symbol -->
-<div style="
-        font-size:42px;
-        line-height:42px;
-        color:#0B4EA2;
-        font-weight:bold;
-      ">
-        🦅
-</div>
- 
-      <!-- Falcon Text -->
-<div style="
-        font-size:26px;
-        font-weight:700;
-        letter-spacing:2px;
-        color:#000000;
-        line-height:28px;
-      ">
-        FALCON
-</div>
- 
-      <div style="
-        font-size:13px;
-        letter-spacing:2px;
-        color:#333333;
-        line-height:16px;
-      ">
-        RISK SERVICES
-</div>
- 
-      <div style="
-        font-size:11px;
-        color:#000000;
-        line-height:14px;
-        margin-top:2px;
-      ">
-        AN HDI COMPANY
-</div>
- 
+<table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <img src="C:\Users\NagaSampathVangaru\Downloads\Logo.png"
+           width="320"
+           alt="Falcon HDI Signature"
+           style="display:block; border:0;">
     </td>
- 
-    <!-- Divider -->
-<td style="
-      width:1px;
-      background:#000000;
-      font-size:0;
-      line-height:0;
-    ">
-&nbsp;
-</td>
- 
-    <!-- RIGHT SIDE -->
-<td align="center" valign="middle" style="padding-left:20px;">
- 
-      <div style="
-        font-size:42px;
-        font-weight:900;
-        letter-spacing:1px;
-        line-height:42px;
-        font-family:Arial Black, Arial, sans-serif;
-      ">
-<span style="color:#0B7A3B;">H</span><span style="color:#0B7A3B;">D</span><span style="color:#0B7A3B;">I</span>
-</div>
- 
-    </td>
- 
   </tr>
 </table>
